@@ -259,7 +259,7 @@ Overall, this project helped me understand that good AI workflow design is reall
 
 ## Video walkthrough
 
-Video link: `PASTE_YOUR_VIDEO_LINK_HERE`
+Video link: `https://youtu.be/ZoqseBG2HpY`
 
 This short demo shows:
 
